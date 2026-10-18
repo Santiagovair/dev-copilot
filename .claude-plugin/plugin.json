@@ -1,0 +1,1 @@
+{ "name": "dev-copilot", "version": "0.1.0", "description": "Panel de uso de tokens con filtros y recomendaciones, router de agentes por costo/calidad, guardia contra comandos peligrosos y verificación automática de TypeScript.", "types": "./types/index.d.ts" }

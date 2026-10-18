@@ -1,0 +1,5 @@
+{
+  "name": "dev-copilot-marketplace",
+  "owner": { "name": "Santiago" },
+  "plugins": [{ "name": "dev-copilot", "source": "./" }]
+}
