@@ -7,10 +7,10 @@ Mod para Claude: panel de uso de tokens con filtros y recomendaciones, router de
 En una terminal con Claude Code:
 
 ```
-/plugin install dev-copilot --marketplace <usuario>/<repo>
+/plugin install dev-copilot --marketplace Santiagovair/dev-copilot
 ```
 
-Desde un shell: `claude plugin install dev-copilot --marketplace <usuario>/<repo>`
+Desde un shell: `claude plugin install dev-copilot --marketplace Santiagovair/dev-copilot`
 
 ## Uso
 
